@@ -13,6 +13,16 @@ I’m trying to understand:
 3. Is adaptive gain (scalar α) a reasonable approach here, or should I move toward full system identification / ML?
 4. How do I make this better representative of an actual physical system?
 
+## Feedback Welcome
+
+I’m actively looking for feedback on:
+- modeling assumptions
+- control strategy
+- potential improvements
+
+Feel free to open an issue or comment.
+
+
 ## System Description
 The control loop works as follows:
 1. Compute error between current position and target
