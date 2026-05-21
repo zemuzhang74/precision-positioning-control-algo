@@ -4,6 +4,8 @@
 
 PLEASE GIVE ADVICE/FEEDBACK!
 
+How do I make this better representative of an actual physical system, and what am I missing (including friction, etc.)?
+
 This project simulates a precision positioning system using 3 actuators. The goal is to move a circular object to a desired position and orientation using electrical input signals. The system uses adaptive control to compensate for actuator uncertainty.
 
 ## System Description
