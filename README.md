@@ -1,6 +1,9 @@
 # Precision Positioning Using Adaptive Control
 
 ## Overview
+
+PLEASE GIVE ADVICE/FEEDBACK!
+
 This project simulates a precision positioning system using 3 actuators. The goal is to move a circular object to a desired position and orientation using electrical input signals. The system uses adaptive control to compensate for actuator uncertainty.
 
 ## System Description
