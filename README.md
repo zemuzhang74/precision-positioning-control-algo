@@ -41,17 +41,6 @@ Where:
 - Explore alternative actuation mechanisms
 - Implement machine learning-based control
 
-## File Structure
-precision-positioning-control/
-│
-├── matlab_sim/
-│     input_based_adaptive_control.m
-│
-├── README.md
-
 ## Goal
 Move object to:
-(x, y, θ) = (0, 0, 0)
-
-## Author Notes
-This project explores the transition from model-based control to adaptive and data-driven control systems for high-precision positioning applications.
+(x, y, θ) = (0, 0, 0) but theta does not matter
